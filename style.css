@@ -5,6 +5,8 @@ nav{
     padding-bottom: 15px;
     padding-left: 50%;
     padding-right: 30px;
+   position:fixed;
+   width: 100%;
 }
 
 
